@@ -1,0 +1,23 @@
+form{
+    border: 3px solid white;
+}
+
+.avatar{
+    width: 100px;
+}
+
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid;
+    box-sizing: border-box;
+
+}
+button{
+    background-color: gray;
+    width: 100px;
+    padding: 14px 20px;
+    cursor: pointer;
+}
